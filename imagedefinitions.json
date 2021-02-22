@@ -1,0 +1,10 @@
+[
+ 
+    {
+        "name": "cga-web",
+        "imageUri": "044222479894.dkr.ecr.us-east-1.amazonaws.com/cga-demo-web:latest"
+    }
+
+
+
+]
